@@ -35,10 +35,11 @@ More recently, I completed my Master’s degree in Computer Science at UC Rivers
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Analytics & ML Enablement** <br>
-![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-228B22)
-![ML Pipelines](https://img.shields.io/badge/ML-Pipelines-2E8B57)
-![Model Workflows](https://img.shields.io/badge/Model-Workflows-556B2F)
+**Data Modeling & Analytics Enablement** <br>
+![Dimensional Modeling](https://img.shields.io/badge/Dimensional_Modeling-4B5563?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2563EB?style=flat)
+![Analytics Ready Datasets](https://img.shields.io/badge/Analytics_Ready_Datasets-0F766E?style=flat)
+![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-7C3AED?style=flat)
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/yashbhaskarwar/)  
