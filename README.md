@@ -1,11 +1,13 @@
 ## Hi, I'm Yash
 
 ## About Me
-I am a software engineer with over three years of experience working on data heavy systems and data platforms. My work focuses on building reliable pipelines and workflows that ingest, validate, transform and prepare data for analytics and downstream systems. I care about correctness, automation and keeping data systems dependable in production.
+I am a software engineer focused on building data heavy systems and data platforms. My work centers on designing reliable pipelines and workflows that ingest, validate, transform and prepare data for analytics and downstream systems. I care about correctness, automation and keeping data systems dependable in production.
 
 Previously at Tata Consultancy Services, I worked on an enterprise data management platform where I contributed to data profiling and cleansing workflows, optimized PostgreSQL queries on large datasets, built cloud based ingestion pipelines and implemented CI/CD automation to support regular releases. I also supported production systems by diagnosing data and pipeline issues and contributing fixes across release cycles.
 
-More recently, I completed my Master’s degree in Computer Science at UC Riverside. As a Research Assistant, I build Python based data pipelines and reusable transformations used in recurring research analyses. Through this work and my projects, I continue to deepen my experience with data pipelines, orchestration, validation logic and systems built on top of data.
+More recently, I completed my Master’s degree in Computer Science at UC Riverside, where I focused on advanced coursework in data systems, machine learning and large scale analytics.
+
+Currently, I am working as a Research Assistant, building Python based data pipelines and reusable transformations that support recurring research analyses. This work involves structuring datasets, implementing validation logic and ensuring reproducible workflows for ongoing studies. Through this role and my independent projects, I continue to deepen my experience with orchestration and analytics ready data systems.
 
 ## Tech Stack
 
@@ -40,6 +42,7 @@ More recently, I completed my Master’s degree in Computer Science at UC Rivers
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2563EB?style=flat)
 ![Analytics Ready Datasets](https://img.shields.io/badge/Analytics_Ready_Datasets-0F766E?style=flat)
 ![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-7C3AED?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-4B5563?style=flat)
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/yashbhaskarwar/)  
